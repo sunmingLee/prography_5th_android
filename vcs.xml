@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/LieutenantKang/kotlin-project-todolist.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="25thbam@gmail.com" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\and_node-master\and_node-master" />
